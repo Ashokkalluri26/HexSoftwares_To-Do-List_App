@@ -14,7 +14,7 @@ A simple and intuitive to-do list application to help you manage your tasks effi
 ## Screenshots
 
 <!-- Add your screenshots here -->
-![App Screenshot](./screenshots/screenshot1.png)
+![App Screenshot](https://github.com/Ashokkalluri26/HexSoftwares_To-Do-List_App/blob/main/Screenshot/todolist.jpg)
 
 ## Getting Started
 
